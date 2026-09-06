@@ -1,17 +1,17 @@
 {
-  "id": 215,
-  "name": "SmartMemo v1.2.5",
-  "tagName": "v1.2.5",
-  "publishedAt": "2026-09-06T09:58:21Z",
+  "id": 217,
+  "name": "SmartMemo v1.2.6",
+  "tagName": "v1.2.6",
+  "publishedAt": "2026-09-06T12:08:21Z",
   "htmlUrl": "https://artifexhongkong.github.io/MoeMemo/",
-  "body": "SmartMemo v1.2.5 stable release.",
+  "body": "SmartMemo v1.2.6 stable release.",
   "prerelease": false,
-  "versionCode": 215,
+  "versionCode": 217,
   "assets": [
     {
       "id": 1,
-      "name": "SmartMemo-1.2.5-release.apk",
-      "size": 6018471,
+      "name": "SmartMemo-1.2.6-release.apk",
+      "size": 6018434,
       "browserDownloadUrl": ""
     }
   ]
